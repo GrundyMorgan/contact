@@ -7,11 +7,10 @@ ORG:Booz Allen Hamilton
 TEL:+44(0)1480707373
 EMAIL:grundy_morgan@bah.com
 URL:www.boozallen.com
-NOTE:Python Programmer
+NOTE:Developer of AI piplines with a focus on geospatial tools
 ROLE:AI/ML Data Scientist
 TITLE:AI/ML Data Scientist
 TZ:Europe/London
-LOGO:
 PHOTO;MEDIATYPE=image/jpeg:https//grundymorgan.github.io/contact/ai_me.jpg
 GEO:geo:60.300426,19.132723
 CATEGORIES:Vendor,AI-ML,NATO
