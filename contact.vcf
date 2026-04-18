@@ -1,7 +1,17 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
+N:Grundy;Morgan;;Mr;
+FN:Mr. Morgan Grundy
+ADR;TYPE=work:;;8283 Greensboro Dr.;McLean;VA;22101;USA
 ORG:Booz Allen Hamilton
 TEL:+44(0)1480707373
 EMAIL:grundy_morgan@bah.com
 URL:www.boozallen.com
+NOTE:Python Programmer
+ROLE:AI/ML Data Scientist
+TITLE:AI/ML Data Scientist
+TZ:Europe/London
+LOGO:https//grundymorgan.github.io/contact/logo.png
+GEO:geo:60.300426,19.132723
+CATEGORIES:Vendor,AI-ML,NATO
 END:VCARD
